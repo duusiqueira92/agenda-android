@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agenda - Emerson</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ContatoActivity -->
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="celular">Celular</string>
+
+    <!-- Dicas -->
+    <string name="dica_nome">Nome do Contato</string>
+    <string name="dica_email">exemplo@exemplo.com.br</string>
+    <string name="dica_telefone">(99) 9999-9999</string>
+    <string name="dica_celular">(99) 99999-9999</string>
+
+
+</resources>
